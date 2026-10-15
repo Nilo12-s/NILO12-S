@@ -4,3 +4,8 @@ Oi, eu sou o Nilo
 </p>
 
 Eu gosto de programar pq eu acho legal (e gosto de fazer projetos sem motivo)
+
+Linguagens que eu sei (ou pelo menos sei rodar um hello world):
+<p align="center">
+  <img src="(https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)="Exemplo de GIF" />
+</p>
