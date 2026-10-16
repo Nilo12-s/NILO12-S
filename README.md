@@ -7,10 +7,10 @@ Eu gosto de programar pq eu acho legal (e gosto de fazer projetos sem motivo)
 
 Linguagens que eu sei (ou pelo menos sei rodar um hello world):
 <p align="center">
-  <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54="cobra4" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original="cobra4" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white="roda html tmb" />
+  <img src="https://www.vhv.rs/dpng/d/456-4561754_html5-js-css3-logo-png-transparent-png.png"roda html tmb" />
 </p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original="cjogodavelha" />
