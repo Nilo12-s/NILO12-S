@@ -6,12 +6,7 @@ Oi, eu sou o Nilo
 Eu gosto de programar pq eu acho legal (e gosto de fazer projetos sem motivo)
 
 Linguagens que eu sei (ou pelo menos sei rodar um hello world):
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original="cobra4" />
-</p>
-<p align="center">
-  <img src="https://icon2.cleanpng.com/20180820/hyg/35e7379adf02cfceef8cc1816466a6b1.webp"roda html tmb" />
-</p>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original="cjogodavelha" />
-</p>
+* Python
+* HTML, CSS e JS
+* C#
+acabou a lista 
